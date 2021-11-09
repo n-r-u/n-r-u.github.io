@@ -1,5 +1,5 @@
 body { 
-  font-family: arial, "ms sans serif", sans-serif;
+  font-family: geneva, verdana, arial, "ms sans serif", sans-serif;
   font-size: 12px; 
   line-height: 18px;
   margin: 15px 30px;
@@ -8,7 +8,7 @@ body {
 }
 
 p, table, ul, li {
-  font-family: arial, "ms sans serif", sans-serif;
+  font-family: geneva, verdana, arial, "ms sans serif", sans-serif;
   font-size: 12px; 
   line-height: 18px;
   color: #000000;
@@ -45,7 +45,7 @@ a:hover {
 }
 
 div.footer {
-  font-family: arial, "ms sans serif", sans-serif; 
+  font-family: geneva, verdana, arial, "ms sans serif", sans-serif; 
   font-size: 12px;
   line-height: 18px;
   color: #000000; 
