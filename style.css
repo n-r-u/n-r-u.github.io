@@ -8,9 +8,9 @@ img.floatRight {
 }
 
 p {
-  min-width: 1200px;
+  min-width: 120px;
   max-width: 500px;
-  margin: auto;
+  margin: 35px;
 }
 
 body { 
