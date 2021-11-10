@@ -7,8 +7,8 @@ img.floatRight {
 	margin: 20px;
 }
 
-div {
-  width: 500px;
+p {
+  max-width: 500px;
   margin: auto;
 }
 
