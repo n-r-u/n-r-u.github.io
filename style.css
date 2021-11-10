@@ -7,8 +7,13 @@ img.floatRight {
 	margin: 20px;
 }
 
+div {
+  width: 500px;
+  margin: auto;
+}
+
 body { 
-  font-family: geneva, verdana, arial, "ms sans serif", sans-serif;
+  font-family: ariak, arial, arial, "ms sans serif", sans-serif;
   font-size: 14px; 
   line-height: 16px;
   margin: 35px 60px;
@@ -17,7 +22,7 @@ body {
 }
 
 p, table, ul, li {
-  font-family: geneva, verdana, arial, "ms sans serif", sans-serif;
+  font-family: arial, arial, arial, "ms sans serif", sans-serif;
   font-size: 12px; 
   line-height: 18px;
   color: #000000;
@@ -54,7 +59,7 @@ a:hover {
 }
 
 div.footer {
-  font-family: geneva, verdana, arial, "ms sans serif", sans-serif; 
+  font-family: arial, arial, arial, "ms sans serif", sans-serif; 
   font-size: 12px;
   line-height: 18px;
   color: #000000; 
