@@ -1,8 +1,8 @@
 body { 
   font-family: geneva, verdana, arial, "ms sans serif", sans-serif;
-  font-size: 12px; 
-  line-height: 18px;
-  margin: 15px 30px;
+  font-size: 14px; 
+  line-height: 16px;
+  margin: 35px 60px;
   color: #000000;
   background-color: #FFFFFF; 
 }
@@ -15,16 +15,16 @@ p, table, ul, li {
 } 
 
 h1 {
-  font-size: 22px;
+  font-size: 42px;
   font-weight: bold;
-  line-height: 22px;
+  line-height: 12px;
   color: #000000;
 }
  
 h2, h3, h4, h5 {
-  font-size: 18px;
+  font-size: 28px;
   font-weight: bold;
-  line-height: 20px;
+  line-height: 12px;
   color: #000000;
 }
  
