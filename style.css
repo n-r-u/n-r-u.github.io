@@ -43,7 +43,7 @@ h2, h3, h4, h5 {
 }
  
 a:link {
-  color: #4877BE;
+  color: #ff9933;
 }
 
 a:visited {
@@ -55,7 +55,7 @@ a:active {
 }
 
 a:hover {
-  color: #4877BE;
+  color: #FFFF00;
 }
 
 div.footer {
