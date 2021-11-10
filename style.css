@@ -48,15 +48,15 @@ a:link {
 }
 
 a:visited {
-  color: #4877BE;
+  color: #FF6600;
 }
 
 a:active {
-  color: #4877BE;
+  color: #FFCC99;
 }
 
 a:hover {
-  color: #FFFF00;
+  color: #FFCC99;
 }
 
 div.footer {
