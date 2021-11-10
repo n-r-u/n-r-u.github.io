@@ -1,10 +1,8 @@
-img.floatLeft {
-	float: left;
-	margin: 20px;
-}
-img.floatRight {
-	float: right;
-	margin: 20px;
+body {
+  background-image: url('Abelian Sandpile Model, Credit Colt Browning.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: right;
 }
 
 p {
