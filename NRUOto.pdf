@@ -1,4 +1,8 @@
+<!DOCTYPE html>
 <html>
+<head>
+<title>Café OTO Zine/title>
+
 <body>
 <embed src="NRUOto.pdf" type="application/pdf" width="100%" height="600px" />
 </body>
