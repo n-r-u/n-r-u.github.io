@@ -1,1 +1,2 @@
-<embed="NRUOto.pdf"</embed>
+
+<embed src="NRUOto.pdf" type="application/pdf" width="100%" height="600px" />
