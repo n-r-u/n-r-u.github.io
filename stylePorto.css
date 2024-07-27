@@ -1,1 +1,81 @@
-nru2720243.gif
+body {
+  background-image: url('nru2720243.gif');
+  background-repeat: no-repeat;
+  background-size: 700px 700px;
+  background-position: right;
+}
+
+p {
+  min-width: 120px;
+  max-width: 500px;
+  margin: 35px;
+}
+
+body { 
+  font-family: ariak, arial, arial, "ms sans serif", sans-serif;
+  font-size: 14px; 
+  line-height: 16px;
+  margin: 35px 60px;
+  color: #fff;
+  background-color: #fff;
+  height: 100%;
+  width: 100%;
+
+}
+
+p, table, ul, li {
+  font-family: arial, arial, arial, "ms sans serif", sans-serif;
+  font-size: 12px; 
+  line-height: 18px;
+  color: #000000;
+} 
+
+h1 {
+  font-size: 42px;
+  font-weight: bold;
+  line-height: 12px;
+  color: #000000;
+}
+ 
+h2, h3, h4, h5 {
+  font-size: 28px;
+  font-weight: bold;
+  line-height: 12px;
+  color: 	#000000;
+}
+ 
+a:link {
+  color: #fad01e;
+}
+
+a:visited {
+  color: #cd6600;
+}
+
+a:active {
+  color: #f56fa1;
+}
+
+a:hover {
+  color: #ffff31;
+}
+
+div.footer {
+  font-family: arial, arial, arial, "ms sans serif", sans-serif; 
+  font-size: 12px;
+  line-height: 18px;
+  color: #000000; 
+}
+
+
+
+video {
+    position: top;
+    
+    width: 90%;
+    height: 90%;
+    z-index: -1000;
+    overflow: hidden
+}
+
+
