@@ -1,19 +1,19 @@
 /* Font definitions */
         @font-face { 
             font-family: 'Galvij-Ob'; 
-            src: url('./assets/fonts/Galvji-Oblique.ttf') format('truetype'); 
+            src: url('../../assets/fonts/Galvji-Oblique.ttf') format('truetype'); 
         }
         @font-face { 
             font-family: 'Galvji-Bold'; 
-            src: url('./assets/fonts/Galvji-Bold.ttf') format('truetype'); 
+            src: url('../../assets/fonts/Galvji-Bold.ttf') format('truetype'); 
         }
         @font-face { 
             font-family: 'Galvji'; 
-            src: url('./assets/fonts/Galvji.ttf') format('truetype'); 
+            src: url('../../assets/fonts/Galvji.ttf') format('truetype'); 
         }
         @font-face { 
             font-family: 'Galvji-BoldOblique'; 
-            src: url('./assets/fonts/Galvji-BoldOblique.ttf') format('truetype'); 
+            src: url('../../assets/fonts/Galvji-BoldOblique.ttf') format('truetype'); 
         }
 
         /* Basic reset and styles */
@@ -70,7 +70,7 @@
          opacity: 0.7;
          width: 90%; /* Use full width */
          height: 90%; /* Use full height of the section */
-         background-image: url('./assets/background1.png');
+         background-image: url('../../assets/background1.png');
          background-size: cover;
          background-position: center;
          z-index: -1; /* Keep behind the text */
@@ -82,7 +82,7 @@
          opacity: 0.7;
          width: 90%; /* Use full width */
          height: 90%; /* Use full height of the section */
-         background-image: url('./assets/background2.png');
+         background-image: url('../../assets/background2.png');
          background-size: cover;
          background-position: center;
          z-index: -1; /* Keep behind the text */
@@ -94,7 +94,7 @@
          opacity: 0.7;
          width: 90%; /* Use full width */
          height: 90%; /* Use full height of the section */
-         background-image: url('./assets/background3.png');
+         background-image: url('../../assets/background3.png');
          background-size: cover;
          background-position: center;
          z-index: -1; /* Keep behind the text */
@@ -106,7 +106,7 @@
          opacity: 0.7;
          width: 90%; /* Use full width */
          height: 90%; /* Use full height of the section */
-         background-image: url('./assets/background4.png');
+         background-image: url('../../assets/background4.png');
          background-size: cover;
          background-position: center;
          z-index: -1; /* Keep behind the text */
@@ -118,7 +118,7 @@
          opacity: 0.7;
          width: 90%; /* Use full width */
          height: 90%; /* Use full height of the section */
-         background-image: url('./assets/background5.png');
+         background-image: url('../../assets/background5.png');
          background-size: cover;
          background-position: center;
          z-index: -1; /* Keep behind the text */
@@ -130,7 +130,7 @@
          opacity: 0.7;
          width: 90%; /* Use full width */
          height: 90%; /* Use full height of the section */
-         background-image: url('./assets/background6.png');
+         background-image: url('../../assets/background6.png');
          background-size: cover;
          background-position: center;
          z-index: -1; /* Keep behind the text */
@@ -363,7 +363,7 @@
             height: 97%;
             margin: 10px;
             
-            background-image: url('./assets/exclusion.png'); /* Replace with your image path */
+            background-image: url('../../assets/exclusion.png'); /* Replace with your image path */
             background-size: contain; /* Changed from cover to contain */
             background-position: center;
             background-repeat: no-repeat;
